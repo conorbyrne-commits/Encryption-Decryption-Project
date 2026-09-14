@@ -1,0 +1,2 @@
+This is a repo that houses the code that I wrote for my AP Computer Science A class' fall semester final project. It is a simple text encryption software that uses a set key, a paragraph of text contained in the key.txt file. 
+All code was directly imported to this repo from Intellij (the IDE I used to write it), and the 2 .java files I wrote are contained in the src folder. The other .txt files are pieces of text used to verify that the encryption/decryption methods work correctly. 
